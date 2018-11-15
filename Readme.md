@@ -1,3 +1,20 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module.Win/Model.DesignedDiffs.xafml)
+* [UpdateNewActionTreeViewController.cs](./CS/WinSolution.Module.Win/UpdateNewActionTreeViewController.cs) (VB: [UpdateNewActionTreeViewController.vb](./VB/WinSolution.Module.Win/UpdateNewActionTreeViewController.vb))
+* [Updater.cs](./CS/WinSolution.Module.Win/Updater.cs)
+* [WinModule.cs](./CS/WinSolution.Module.Win/WinModule.cs)
+* [ClassesForTree.cs](./CS/WinSolution.Module/ClassesForTree.cs) (VB: [ClassesForTree.vb](./VB/WinSolution.Module/ClassesForTree.vb))
+* [CodeCentralExampleDataStoreProvider.cs](./CS/WinSolution.Module/CodeCentralExampleDataStoreProvider.cs)
+* [DomainObject1.cs](./CS/WinSolution.Module/DomainObject1.cs) (VB: [DomainObject1.vb](./VB/WinSolution.Module/DomainObject1.vb))
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module/Model.DesignedDiffs.xafml)
+* [Module.cs](./CS/WinSolution.Module/Module.cs)
+* [Updater.cs](./CS/WinSolution.Module/Updater.cs)
+* [Model.xafml](./CS/WinSolution.Win/Model.xafml) (VB: [Model.xafml](./VB/WinSolution.Win/Model.xafml))
+* [Program.cs](./CS/WinSolution.Win/Program.cs)
+* [WinApplication.cs](./CS/WinSolution.Win/WinApplication.cs)
+<!-- default file list end -->
 # OBSOLETE - How to show a specific detail view for a selected record in the TreeList when the list view is in the ListViewAndDetailView mode
 
 
