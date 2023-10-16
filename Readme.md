@@ -1,3 +1,0 @@
-# OBSOLETE - How to show a specific detail view for a selected record in the TreeList when the list view is in the ListViewAndDetailView mode
-
-In the current version, you can achieve the same behavior by setting the [DetailView](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.Model.IModelListView.DetailView) and [MasterDetailView](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.Model.IModelListView.MasterDetailView) properties of the ListView model to None in the Model Editor.
